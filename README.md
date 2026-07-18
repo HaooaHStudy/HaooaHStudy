@@ -9,7 +9,7 @@
 ### 🖼️ 个人横幅
 <!-- 这里的图片可以换成你自己喜欢的动图 (GIF) 链接，例如存放于图床的链接 -->
 <p align="center">
-  <img src="https://" alt="Banner" width="100%" />
+  <img src="https://private-user-images.githubusercontent.com/287001036/623502488-436b4f24-ec0d-41d6-9121-a9afe010db5d.jpg?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODQzNDc3MTIsIm5iZiI6MTc4NDM0NzQxMiwicGF0aCI6Ii8yODcwMDEwMzYvNjIzNTAyNDg4LTQzNmI0ZjI0LWVjMGQtNDFkNi05MTIxLWE5YWZlMDEwZGI1ZC5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwNzE4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDcxOFQwNDAzMzJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1jZGJlNjc3OTI0YjA2M2Q0NGFjZGU5NDVkNGY2MmY5YjkzZmQwNTc3MzY5MzRiYjNlNzdkYTU5Yzg3ZTkwNGI3JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZyZXNwb25zZS1jb250ZW50LXR5cGU9aW1hZ2UlMkZqcGVnIn0.99qdNa8S3XP8azIwGLJDD_CzAnwhivUw69YC-0WBayc" alt="Banner" width="100%" />
 </p>
 
 ### 🛠️ 技术栈与工具
