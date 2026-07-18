@@ -15,6 +15,6 @@
 ### 🛠️ 技术栈与工具
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring boot,python,mysql,redis,html,css,javascript,react,vue,docker,git" />
+    <img src="https://skillicons.dev/icons?i=java,spring,python,mysql,redis,html,css,javascript,react,vue,docker,git" />
   </a>
 </p>
